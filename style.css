@@ -8,7 +8,7 @@ body {
 }
 .app-container {
   width: 100%;
-  max-width: 1120px;
+  max-width: 900px;
   margin: 0 auto;
 }
 .h1 {
@@ -175,5 +175,6 @@ span {
     display: grid;
     grid-template-columns: auto auto;
     align-items: flex-start;
+    gap: 10rem;
   }
 }
